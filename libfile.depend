@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1782727952 source:d:\codeblocks\c_snippets\libfile\libfile.c
+	"libfile.h"
+	<stdlib.h>
+	<unistd.h>
+	<sys/stat.h>
+
+1782727943 d:\codeblocks\c_snippets\libfile\libfile.h
+	<stdio.h>
+
