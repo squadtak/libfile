@@ -1,7 +1,12 @@
 /*
- libfile Ver 1.0 2026-06-29
- (c)2026 squad
-*/
+ * \file		libfile.c
+ * \brief		snippet library for file
+ * \author		squad
+ * \version		Ver 1.1
+ * \date		2026-06-30
+ * \copyright	Copyright 2026 squad
+ * \license		This library is released under the MIT license.
+ */
 
 #include "libfile.h"
 

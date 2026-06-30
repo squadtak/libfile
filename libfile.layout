@@ -2,25 +2,26 @@
 <CodeBlocks_layout_file>
 	<FileVersion major="1" minor="0" />
 	<ActiveTarget name="Release" />
-	<File name="libfile.c" open="1" top="1" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="libfile.h" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="116" topLine="0" />
+			<Cursor1 position="997" topLine="25" />
+		</Cursor>
+	</File>
+	<File name="libfile.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="252" topLine="0" />
 		</Cursor>
 		<Folding>
-			<Collapse line="7" />
-			<Collapse line="20" />
-			<Collapse line="67" />
-			<Collapse line="74" />
-			<Collapse line="81" />
-			<Collapse line="88" />
-			<Collapse line="118" />
-			<Collapse line="150" />
-			<Collapse line="176" />
+			<Collapse line="0" />
+			<Collapse line="17" />
+			<Collapse line="31" />
+			<Collapse line="78" />
+			<Collapse line="85" />
+			<Collapse line="92" />
+			<Collapse line="99" />
+			<Collapse line="129" />
+			<Collapse line="161" />
+			<Collapse line="187" />
 		</Folding>
-	</File>
-	<File name="libfile.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="276" topLine="0" />
-		</Cursor>
 	</File>
 </CodeBlocks_layout_file>
